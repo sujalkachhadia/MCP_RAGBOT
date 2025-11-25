@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+supabase
+langchain
+langchain-community
+langchain-huggingface
+langchain-experimental
+langchain-groq
+pypdf
+python-dotenv
+python-jose
